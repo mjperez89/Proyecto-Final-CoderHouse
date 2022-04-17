@@ -49,7 +49,7 @@
 }
 
 .main {
-    background: url('../img/Copa_Cervezas.jpg');
+    background: url("../img/Copa_Cervezas.jpg");
     background-size: cover;
     height: 100vh;
     background-position: 50% 50%;
@@ -89,7 +89,7 @@ h1 {
 }
 
 .visitanos {
-    background-image: url(/img/barril_cerveza2.jpg);
+    background-image: url("../img/barril_cerveza2.jpg");
     background-size: cover;
     height: 80vh;
     width: 100%;
