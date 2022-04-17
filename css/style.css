@@ -106,6 +106,13 @@ h1 {
     font-weight: 300;
 }
 
+/*-------------- Somos -----------------*/
+
+.p-ubicados {
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
 /*-------------- Tienda -----------------*/
 
 .btn2 {
@@ -129,5 +136,8 @@ h1 {
     font-size: 1.5rem;
     font-weight: 300;
 }
+
+/*-------------- Media Querie -----------------*/
+
 
 
