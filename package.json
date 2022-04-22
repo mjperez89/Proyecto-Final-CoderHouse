@@ -1,0 +1,19 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "Proyecto Final CoderHouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjperez89/Proyecto-Final-CoderHouse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjperez89/Proyecto-Final-CoderHouse/issues"
+  },
+  "homepage": "https://github.com/mjperez89/Proyecto-Final-CoderHouse#readme"
+}
