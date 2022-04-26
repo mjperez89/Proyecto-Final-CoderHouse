@@ -1,0 +1,22 @@
+/*-------------- Tienda -----------------*/
+
+.btn2 {
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color:$colorboton2 ;
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+    .btn2:hover {
+        background-color:$colorhoverboton2 ;
+        transition: 0.5s;
+    }
+}
+
+.p-precio {
+    color: red;
+    font-size: 1.5rem;
+    font-weight: 300;
+}

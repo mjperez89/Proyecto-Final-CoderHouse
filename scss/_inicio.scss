@@ -1,0 +1,85 @@
+//-------------- Inicio -----------------//
+.navbar-brand {
+    font-size: 2rem;
+    color: black;
+    .navbar-brand:hover {
+        color: black;
+    }
+}
+
+.nav-link {
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black;
+    text-transform: uppercase;
+    .nav-link:hover {
+        color: black;
+    }
+}
+
+.search {
+    height: 40px;
+    width: 80%;
+    border-radius: 60px;
+    outline: none;
+    margin-right: -35px;
+    border: 2px solid $colorboton1;
+}
+
+.main {
+    background: url("../img/Copa_Cervezas.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-position: 50% 50%;
+    width: 100%;
+    h1 {
+        color: white;
+        font-size: 4rem;
+        font-weight: 700; 
+    }
+}
+
+.btn0 {
+    height: 40px;
+    width: 40%;
+    outline: none;
+    border: none;
+    background: $colorboton1;
+    color: white;
+    border-radius: 60px;
+    font-weight: 700;
+
+}
+
+.btn1 {
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color:$colorboton1 ;
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+    .btn1:hover {
+        background-color:$colorhoverboton1;
+        transition: 0.5s;
+    }
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.card:hover {
+    box-shadow: -2px -1px 25px -4px $colorhovercard;
+    -webkit-box-shadow: -2px -1px 25px -4px $colorhovercard;
+    -moz-box-shadow: -2px -1px 25px -4px $colorhovercard;
+    transition: 0.5s;
+}
+
+.visitanos {
+    background-image: url("../img/canillas.jpg");
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+}
