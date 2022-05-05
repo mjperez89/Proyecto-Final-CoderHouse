@@ -47,7 +47,7 @@
   font-weight: 700;
 }
 
-.btn0 {
+.btn0, .btn2 {
   height: 40px;
   width: 40%;
   outline: none;
@@ -65,8 +65,8 @@
   outline: none;
   background-color: rgb(248, 26, 92);
   color: white;
-  font-weight: 700;
   border-radius: 60px;
+  font-weight: 700;
 }
 .btn1 .btn1:hover {
   background-color: rgb(223, 15, 77);
@@ -109,14 +109,7 @@ h1 {
 
 /*-------------- Tienda -----------------*/
 .btn2 {
-  height: 45px;
-  width: 35%;
-  border: none;
-  outline: none;
   background-color: rgb(192, 107, 27);
-  color: white;
-  font-weight: 700;
-  border-radius: 60px;
 }
 .btn2 .btn2:hover {
   background-color: rgb(223, 136, 15);

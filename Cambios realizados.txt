@@ -1,0 +1,5 @@
+- Optimize las imagenes bajando ampliamente su peso.
+- Ingrese los keywords claves en cada pagina.
+- Se le agrego una descripcion.
+- Se le agrego un extend a los botones de la tienda, combinando btn0 con btn2.
+- Se agrego un mixin a btn0 y btn1 del inicio.
